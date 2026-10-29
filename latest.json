@@ -1,0 +1,7 @@
+{
+  "version": "2.2.0",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/2.2.0/club-screens-2.2.0-update.zip",
+  "sha256": "a1638e6cfbe1b00ebbc230f81e8ac10b9104c3d74a03313a0af2472a03900656",
+  "notes": "Мастер сам находит программы, зашифрованная резервная копия, проверка доставки, автообновление с откатом, сторож, лёгкий режим.",
+  "min_version": "2.1.0"
+}
