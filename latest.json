@@ -1,7 +1,7 @@
 {
-  "version": "2.2.2",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/2.2.2/club-screens-2.2.2-update.zip",
-  "sha256": "d540c3db6ab7cbb38cf8eca6ddce5210411c5edd13f3d3082ec5800f86f4a80f",
-  "notes": "2.2.2: галочка «Проверять в :05, что скрины ушли» (по умолчанию выключена) — большое красное окно поверх всех, если скрины за час не снялись или не отправились.",
+  "version": "2.2.3",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/2.2.3/club-screens-2.2.3-update.zip",
+  "sha256": "026b2838066681ba1589b738a472741c3bb1fa014e3f74e54f600dd2cba47565",
+  "notes": "Кнопка «Отправить сообщение» нового ВК находится и нажимается надёжно (с проверкой и запасным Enter); страница ВК больше не прыгает из‑за подгонки масштаба.",
   "min_version": "2.1.0"
 }
