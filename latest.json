@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.0/club-screens-3.0.0-update.zip",
-  "sha256": "408273f527278d3bde77cf9d537e0798a389b5bf056db2b9567284d017ce9a00",
-  "notes": "3.0 — сценарий съёмки камер: встроенный способ по умолчанию (Main View → вид «cam» → полный экран → снимок → Esc); в мастере — «Записать сценарий для съёмки» или «Пропустить»; в настройках — «Перезаписать сценарий для съёмки» и «Сброс сценария для съёмки»; инструкция по записи.",
+  "version": "3.0.1",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.1/club-screens-3.0.1-update.zip",
+  "sha256": "f0b11f04f12f41f0613351e4893e7ab2c9f1534353d7608a8d25faa8a5b4dbae",
+  "notes": "3.0.1 — запись сценария через удалённый рабочий стол: плавающая панель «Идёт запись» с кнопками «Стоп» и «Отмена», запасная клавиша F9 (настраивается), пункт трея «Остановить запись», автостоп через 2 минуты бездействия; удалённый ввод записывается.",
   "min_version": "2.1.0"
 }
