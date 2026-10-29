@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/2.2.1/club-screens-2.2.1-update.zip",
-  "sha256": "3ee34af5e9733098e87aff7ef6313805a277ce12cb57607dbd0717f21492b390",
-  "notes": "Ожидание загрузки картинок в ВК до 90 с, настоящая вторая попытка с перезагрузкой беседы, обновление заранее открытой беседы, кнопка «Отправить последние скрины».",
+  "version": "2.2.2",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/2.2.2/club-screens-2.2.2-update.zip",
+  "sha256": "d540c3db6ab7cbb38cf8eca6ddce5210411c5edd13f3d3082ec5800f86f4a80f",
+  "notes": "2.2.2: галочка «Проверять в :05, что скрины ушли» (по умолчанию выключена) — большое красное окно поверх всех, если скрины за час не снялись или не отправились.",
   "min_version": "2.1.0"
 }
