@@ -1,7 +1,7 @@
 {
-  "version": "2.2.3",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/2.2.3/club-screens-2.2.3-update.zip",
-  "sha256": "026b2838066681ba1589b738a472741c3bb1fa014e3f74e54f600dd2cba47565",
-  "notes": "Кнопка «Отправить сообщение» нового ВК находится и нажимается надёжно (с проверкой и запасным Enter); страница ВК больше не прыгает из‑за подгонки масштаба.",
+  "version": "2.2.4",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/2.2.4/club-screens-2.2.4-update.zip",
+  "sha256": "a2720195b69a1d31594cedc7a1a50bb368202b9c6d4395899d94c41ff8890728",
+  "notes": "Без двойной отправки: отправленный час не повторяется, даже если сообщение удалили; перед повтором и тревогой в :05 проверяется беседа; галочка «Не повторять, если в этот час уже отправлял вручную»; описание функций в docs.",
   "min_version": "2.1.0"
 }
