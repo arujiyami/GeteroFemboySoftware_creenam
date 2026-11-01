@@ -1,7 +1,7 @@
 {
-  "version": "3.0.10",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.10/club-screens-3.0.10-update.zip",
-  "sha256": "d5e1c65ad848745582a8c2edeece96aed3964cbbb6d48db3ef71ae3b7b92caea",
-  "notes": "3.0.10: если при записи сценария вы сами нажали Cancel в вопросе iVMS, этот щелчок больше не повторяется наугад — программа уже закрыла вопрос сама. Подписи в мастере, настройках и окне записи переписаны проще: «Cancel и второй вид…», «Записать Cancel», «Записать второй вид».",
+  "version": "3.0.11",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.11/club-screens-3.0.11-update.zip",
+  "sha256": "b21a6838c49fafd86c55363c6cbe5b313e6f721ae256a7e4f637fbf27d89fe8b",
+  "notes": "3.0.11: кнопка «на весь экран» больше не «находится» посреди камер — если картинка нашлась далеко от места записи, программа щёлкает по записанному месту. Если iVMS ничего не спросил, записанный щелчок по Cancel не повторяется. Перед снимком iVMS курсор уводится в угол, если вы сами его не поставили.",
   "min_version": "2.1.0"
 }
