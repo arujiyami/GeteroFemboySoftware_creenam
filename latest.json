@@ -1,7 +1,7 @@
 {
-  "version": "3.0.9",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.9/club-screens-3.0.9-update.zip",
-  "sha256": "8d9ec893a6947303ddb72bb83c506cbdb5b5a47d0c8a33e35b73dedde01bdf2e",
-  "notes": "3.0.9: после каждого двойного щелчка по виду камер iVMS программа ждёт окно-вопрос «сохранить изменения?» и нажимает только «Cancel» (по записанной картинке или через Windows, иначе Esc); если окно не закрылось — дальше не щёлкает (полноэкранный режим тоже) и шлёт снимок как есть с предупреждением. Новая кнопка «Записать кнопку Cancel». Сценарий камер теперь в основных настройках: «Сценарий камер (iVMS)». Картинки щелчков крупнее и снимаются до реакции программы — запишите сценарий iVMS заново.",
+  "version": "3.0.10",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.10/club-screens-3.0.10-update.zip",
+  "sha256": "d5e1c65ad848745582a8c2edeece96aed3964cbbb6d48db3ef71ae3b7b92caea",
+  "notes": "3.0.10: если при записи сценария вы сами нажали Cancel в вопросе iVMS, этот щелчок больше не повторяется наугад — программа уже закрыла вопрос сама. Подписи в мастере, настройках и окне записи переписаны проще: «Cancel и второй вид…», «Записать Cancel», «Записать второй вид».",
   "min_version": "2.1.0"
 }
