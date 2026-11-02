@@ -1,7 +1,7 @@
 {
-  "version": "3.0.13",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.13/club-screens-3.0.13-update.zip",
-  "sha256": "a52aba0ac9cb3e046314b6fccc43959bb53211b9b7d9fd84b5ffbe6b8984eecb",
-  "notes": "3.0.13: в окошке предупреждения — кнопки «Снять сейчас» и «Снять позже» (на 1 минуту, раз в час; выключаются в настройках). Ручной съём клавишами Shift+Alt+2 с :50 до :10. Час считается отправленным только по подтверждению ВК и номеру сообщения.",
+  "version": "3.0.14",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.14/club-screens-3.0.14-update.zip",
+  "sha256": "76e8c9204919ceb94ab954683b102b02db98a704d880a47e6a349a1236b68d72",
+  "notes": "3.0.14 — убраны подписи «(повторная отправка вручную)» и предупреждения Oasys/iVMS; исправлены кнопки окна-предупреждения о неотправленных скринах (не появляется повторно после подтверждённой отправки, кнопка «Снять и отправить сейчас» не остаётся серой, показывается «Отправляю…» и сообщение, если идёт другая задача).",
   "min_version": "2.1.0"
 }
