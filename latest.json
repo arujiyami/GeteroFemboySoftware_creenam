@@ -1,7 +1,7 @@
 {
-  "version": "3.0.11",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.11/club-screens-3.0.11-update.zip",
-  "sha256": "b21a6838c49fafd86c55363c6cbe5b313e6f721ae256a7e4f637fbf27d89fe8b",
-  "notes": "3.0.11: кнопка «на весь экран» больше не «находится» посреди камер — если картинка нашлась далеко от места записи, программа щёлкает по записанному месту. Если iVMS ничего не спросил, записанный щелчок по Cancel не повторяется. Перед снимком iVMS курсор уводится в угол, если вы сами его не поставили.",
+  "version": "3.0.12",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.12/club-screens-3.0.12-update.zip",
+  "sha256": "fccbad18fbe196dd2af19c6fdebbbce986761fb93dc11b4f975ec0b05a885bde",
+  "notes": "3.0.12: исправлена двойная отправка скринов (повтор через ~2 минуты) на мониторах не 16:9 и у профилей со значком статуса. Своё сообщение программа теперь узнаёт по номеру сообщения ВК; удалённое сообщение сама заново не отправляет. Любые мониторы, в том числе два монитора. Подпись в ВК не меняется.",
   "min_version": "2.1.0"
 }
