@@ -1,7 +1,7 @@
 {
-  "version": "3.0.14",
-  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.14/club-screens-3.0.14-update.zip",
-  "sha256": "76e8c9204919ceb94ab954683b102b02db98a704d880a47e6a349a1236b68d72",
-  "notes": "3.0.14 — убраны подписи «(повторная отправка вручную)» и предупреждения Oasys/iVMS; исправлены кнопки окна-предупреждения о неотправленных скринах (не появляется повторно после подтверждённой отправки, кнопка «Снять и отправить сейчас» не остаётся серой, показывается «Отправляю…» и сообщение, если идёт другая задача).",
+  "version": "3.0.15",
+  "update_zip_url": "https://raw.githubusercontent.com/arujiyami/GeteroFemboySoftware_creenam/main/releases/3.0.15/club-screens-3.0.15-update.zip",
+  "sha256": "c06cecc77736e70195f73df8c1b4a5028df52a8f9371440cf0dbb5f0902036a5",
+  "notes": "3.0.15 — три режима программы камер: iVMS-4200 (как раньше), TRASSIR и другая программа по названию окна (TRASSIR пока не проверен на настоящих камерах); исправлена ошибка, из-за которой после ошибки загрузки в ВК могла уйти вторая картинка камер вместо Oasys.",
   "min_version": "2.1.0"
 }
